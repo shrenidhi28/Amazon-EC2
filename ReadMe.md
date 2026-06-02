@@ -110,19 +110,21 @@ This ensures controlled and secure communication with the instance.
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-<img width="1902" height="911" alt="Screenshot 2026-02-24 111106" src="https://github.com/user-attachments/assets/bffca923-9175-4633-bdcc-6a2a002c32a5" />
+<img width="1248" height="553" alt="image" src="https://github.com/user-attachments/assets/cd656070-b9ea-4bac-9a5d-238652e73c5a" />
+
 
 
 
 ### Screenshot 2: SSH Connection to Instance
 
-<img width="1908" height="913" alt="Screenshot 2026-02-24 112804" src="https://github.com/user-attachments/assets/b6348737-1220-4a4d-bcb7-17464f00ce52" />
+<img width="1260" height="552" alt="image" src="https://github.com/user-attachments/assets/173ffd9f-4a64-4c3c-8497-0bf5d21d7d37" />
+
 
 
 
 ### Screenshot 3: Instance Monitoring / Status
 
-<img width="1913" height="913" alt="Screenshot 2026-02-24 113120" src="https://github.com/user-attachments/assets/ec71ca48-286f-47eb-9a69-87e41709deb6" />
+<img width="1248" height="550" alt="image" src="https://github.com/user-attachments/assets/f5a0814d-fada-40e4-b714-6e6a48128cc6" />
 
 
 
