@@ -2,8 +2,8 @@
 
 # Author
 
-## Name: DODLA SUSMITHA
-## Register Number: 212224110016
+## Name: Shrenidhi
+## Register Number: 212223040196
 
 ## Objective
 
